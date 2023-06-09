@@ -1,6 +1,6 @@
-# ListaDeChamados
-Projeto pessoal pensado em registrar os chamados realizados no meu trabalho como HelpDesk 
+# IssueTracker
+A personal project designed to track the support tickets I handle as a HelpDesk professional.
 
-Tecnologias usadas: HTML/CSS/JAVASCRIPT
+Technologies used: HTML/CSS/JavaScript
 
-https://devjoaolorenzo.github.io/ListaDeChamados/
+Visit the project website: https://devjoaolorenzo.github.io/ListaDeChamados/
