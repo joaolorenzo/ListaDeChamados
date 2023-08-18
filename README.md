@@ -3,4 +3,4 @@ A personal project designed to track the support tickets I handle as a HelpDesk 
 
 Technologies used: HTML/CSS/JavaScript
 
-Visit the project website: https://devjoaolorenzo.github.io/ListaDeChamados/
+Visit the project website: https://joaolorenzo.github.io/ListaDeChamados/
